@@ -1,0 +1,10 @@
+# Raiser
++ 简介
+Raiser是一个用来优化大容量计算函数的缓存装饰器工具
++ 主要技术
+（1）hdf5
+（2）pytables
++ 安装
+```
+pip install -i http://10.3.110.71:8080 --trusted-host 10.3.110.71 Raiser
+```
